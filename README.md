@@ -7,13 +7,13 @@ Link to api documentation: http://localhost:3333/api-docs/
 First, you must clone the application on your machine:
 
 ```
-    git clone https://github.com/svvictorelias/converteme.git
+    git clone https://github.com/svvictorelias/template-backend.git
 ```
 
 through ssh
 
 ```
-    git clone git@github.com:svvictorelias/converteme.git
+    git clone git@github.com:svvictorelias/template-backend.git
 ```
 
 In this case I didn't use the file `.env` to make the assessment easier. But by default, I create in real projects .
